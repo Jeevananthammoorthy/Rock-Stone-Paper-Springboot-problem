@@ -75,6 +75,6 @@ Response :
 <br/>
 }
 <br/>
-In the response, we have 2 fields serverMove and totalScore.
+In the response, we have 2 fields serverMove and totalScore. Same as above api response
 <br/>
 
